@@ -1,2 +1,2 @@
 # xo_game
-just a very simple tic tacc toe game with cpp 
+just a very simple tic tac toe game with cpp 
